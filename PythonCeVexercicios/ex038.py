@@ -20,7 +20,6 @@ def pegando_numeros():
 
 def comparando(lista_numeros):
     lista_numeros.sort()
-    print(lista_numeros)
     print('O maior valor da lista é o {} e o menor é o {}!'.format(lista_numeros[-1], lista_numeros[0]))
 
 
