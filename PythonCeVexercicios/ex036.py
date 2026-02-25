@@ -53,5 +53,3 @@ interface()
 valor_imovel = escolha_do_imovel()
 interface_analise()
 analise(valor_imovel)
-
-print(valor_imovel)
